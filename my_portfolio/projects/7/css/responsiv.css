@@ -1,0 +1,636 @@
+﻿@media (max-width: 1024px) {
+	#zahvat1 .block_zahvat:before {
+		display: none;
+	}
+	
+	#zahvat1 .block_zahvat:after {
+	display: none;
+	}
+	
+	#rabot .block_rabot:before {
+	display: none;
+	}
+	
+	#rabot .block_rabot:after {
+	display: none;
+	}
+	
+	#zahvat2 .forma_zachvata:before {
+	display: none;
+	}
+	
+	#zahvat2 .forma_zachvata:after {
+	display: none;
+	}
+	
+	.block_poradok:before {
+	display: none;
+	}
+	
+	.block_bolche_rabot:before {
+	display: none;
+	}
+	
+	body {
+		    min-width: initial;
+	}
+	
+	.block_vygodno:before {
+	display: none;
+	}
+	
+	.owl-next {
+	    right: 0;
+    top: 49%;
+	}
+	.owl-prev {
+	    left: 0;
+    top: 49%;
+	}
+	
+	.block_hed {
+	text-align: center;
+	}
+	
+	.block_hed .block_logo {
+	    float: none;
+    display: inline-block;
+	}
+	
+	.block_hed .text_hed {
+	    float: none;
+    display: inline-block;
+    vertical-align: top;
+	}
+	
+	.block_hed .block_phone {
+	    float: none;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+	}
+	
+	#zahvat1 .forma_zachvata:before {
+	display: none;
+	}
+	
+	.mobile-menu  {
+	display: inline-block;
+	}
+	
+	.menu_top {
+	display: none;
+	    height: initial;
+    line-height: 1.5;
+    padding-bottom: 5px;
+	}
+	
+	.menu_top ul li {
+	    display: block;
+    margin: 0;
+	}
+	
+	#slider .block_slider h2 {
+	    font-size: 20px;
+    padding: 0 20px;
+    box-sizing: border-box;
+	}
+	
+	#slider .block_slider > p {
+	    font-size: 16px;
+    padding: 0 20px;
+    box-sizing: border-box;
+	}
+	
+	#slider .block_slider h3 {
+	padding: 0 20px;
+    box-sizing: border-box;
+    font-size: 18px;
+	}
+	
+	#slider .slid_box {
+	    margin: 0 auto;
+    text-align: center;
+	}
+	
+	#slider .slid_box .item_slid {
+	position: initial;
+    display: inline-block;
+    margin: 10px 10px;
+	}
+	
+	#zahvat1 h2 {
+	    font-size: 20px;
+	}
+	
+	.forma_zachvata {
+	text-align: center;
+	    padding-bottom: 20px;
+	}
+	
+	.forma_zachvata form input[type="text"] {
+	float: none;
+	}
+	
+	.forma_zachvata form input[type="submit"] {
+	    float: none;
+    margin-top: 25px;
+	}
+	
+	#kompany .row_kompany {
+	padding: 0 10px;
+    box-sizing: border-box;
+	}
+	
+	#pochemu {
+	    padding-bottom: 10px;
+	}
+	
+	#pochemu .row_pochemu {
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+
+#tabs-container .tabs-menu li {
+    margin: 0px 6px;
+}
+
+.tab-content .box_tab {
+    width: 100%;
+    float: none;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+
+#vygodno h3 {
+    text-align: center;
+}
+
+.block_vygodno {
+    text-align: center;
+}
+
+#vygodno h3 {
+    text-align: center;
+}
+
+.row_vygodno .box_vygodno {
+    float: none;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+}
+
+#prichin .don_prich {
+	background: none;
+	    text-align: center;
+}
+
+#prichin .don_prich .prich1, #prichin .don_prich .prich2, #prichin .don_prich .prich3, #prichin .don_prich .prich4, #prichin .don_prich .prich5 {
+position: initial;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin-bottom: 15px;
+	    width: 285px;
+}
+
+.box_otzyv  {
+padding-left: 10px;
+    padding-right: 10px;
+}
+
+#poradok .poradok_vse {
+background: none;
+}
+
+.row1_poradok .box_poradok {
+    margin: 0 20px;
+}
+
+.row1_poradok .box_poradok:before {
+    right: -50px;
+}
+
+.row2_poradok {
+    margin-top: 60px;
+}
+
+#poradok {
+    min-height: initial;
+}
+
+.block_bolche_rabot {
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+
+.row_somnev .box_somnev h4 {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.row_somnev .box_somnev ul {
+    width: 450px;
+    text-align: left;
+    margin: 0 auto;
+}
+
+.row_somnev .box_somnev{
+    width: 100%;
+    float: none;
+    text-align: center;
+}
+
+.row_somnev .box_somnev .forma_somnev {
+    float: none;
+    display: inline-block;
+}
+#partner .partner_vse img {
+    display: inline-block;
+    float: none;
+}
+
+.row_fut .map {
+    float: none;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.block_fut{
+	text-align: center;
+	}
+	
+	footer .block_bottom .block_fut .block_logo_f {
+	    float: none;
+    display: inline-block;
+	}
+	
+	footer .block_bottom .block_fut .text_fut {
+	    float: none;
+    display: inline-block;
+    vertical-align: top;
+	}
+	
+	footer .block_bottom .block_fut .block_phone_f {
+	    float: none;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+	}
+
+	#prichin {
+	    min-height: initial;
+	}
+
+}
+
+@media (max-width: 768px) {
+
+	#zahvat1 h2 {
+    font-size: 16px;
+}
+
+.forma_zachvata form input[type="text"] {
+    margin: 0;
+    margin-top: 10px;
+}
+
+#kompany .row_kompany .box_kompany {
+    width: 100%;
+    float: none;
+    max-width: 290px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+#pochemu .row_pochemu .box_pochemu {
+    width: 100%;
+    max-width: 290px;
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 20px;
+}
+
+#pochemu h2 {
+font-size: 24px;
+}
+
+#tabs-container .tabs-menu li {
+display: block;
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto ;
+}
+
+#vygodno h2 {
+    font-size: 20px;
+}
+
+#vygodno h3 {
+    font-size: 20px;
+}
+
+.row_vygodno .box_vygodno {
+    margin-bottom: 35px;
+}
+
+#prichin h3 {
+    font-size: 20px;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+#prichin h2 {
+font-size: 20px;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+#zahvat3 h2 {
+    font-size: 20px;
+    padding: 0 20px;
+	 box-sizing: border-box;
+}
+
+#otzyv h2 {
+    font-size: 25px;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+.box_otzyv .img_otzyv {
+    margin: 0 auto;
+}
+
+.otzyv_vse .box_otzyv:nth-child(2n-1) .img_otzyv {
+float: none;
+}
+
+.otzyv_vse .box_otzyv:nth-child(2n) .img_otzyv {
+float: none;
+}
+
+.otzyv_hiden .box_otzyv:nth-child(2n-1) .img_otzyv {
+float: none;
+}
+
+.otzyv_hiden .box_otzyv:nth-child(2n) .img_otzyv {
+float: none;
+}
+
+.box_otzyv .text_otzyv {
+    text-align: center;
+}
+
+.box_otzyv .text_otzyv h3 {
+margin: 0;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.row1_poradok .box_poradok:before {
+display: none;
+}
+
+.row2_poradok .box_poradok:before {
+display: none;
+}
+
+#poradok .box_poradok {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.row1_poradok .box_poradok {
+    width: 200px;
+}
+
+.row2_poradok .box_poradok {
+width: 200px;
+}
+
+.row2_poradok {
+    margin-top: 20px;
+}
+
+#poradok {
+    padding-bottom: 20px;
+}
+
+#poradok h2 {
+    font-size: 25px;
+}
+#bolche_rabot h2 {
+font-size: 20px;
+}
+
+#bolche_rabot {
+    padding-top: 40px;
+}
+
+#somnev h2 {
+    font-size: 25px;
+}
+
+#somnev h3 {
+font-size: 14px;
+}
+
+.row_somnev .box_somnev .forma_somnev:before {
+display: none;
+}
+
+.fut_input {
+    width: 100%;
+    float: none;
+    text-align: center;
+}
+
+.vopros form input[type="text"] {
+    float: none;
+}
+
+.fut_textarea {
+    width: 100%;
+    float: none;
+    text-align: center;
+}
+
+.row_fut .vopros {
+    padding-bottom: 20px;
+}
+
+}
+
+@media (max-width: 500px) {
+
+	.block_hed .text_hed p {
+	    border: none;
+    padding: 10px 10px;
+    margin: 0;
+	}
+	
+	.block_hed .block_phone:before {
+	display: none;
+	}
+	
+	.block_hed .block_phone {
+	    text-align: center;
+	}
+	
+	#slider .block_slider h2 {
+	    font-size: 14px;
+	}
+	
+	#slider .block_slider > p {
+	    font-size: 12px;
+	}
+	
+	#slider .block_slider h3 {
+	    font-size: 14px;
+	}
+	
+	#pochemu h2 {
+    font-size: 18px;
+}
+
+#rabot h2 {
+    font-size: 20px;
+}
+
+.slides_container .slides_control {
+    max-height: 170px !important;
+}
+
+.rabot_slider .pagination li {
+margin-right: 5px;
+}
+
+#vygodno {
+    padding-top: 30px;
+}
+
+#vygodno h2 {
+    font-size: 16px;
+} 
+
+#vygodno h3 {
+    font-size: 16px;
+} 
+
+.row_vygodno .box_vygodno:before {
+display: none;
+}
+
+.row_vygodno .box_vygodno {
+    margin-bottom: 20px;
+    padding: 0 15px;
+}
+
+.row_vygodno {
+    margin-top: 30px;
+}
+
+#zahvat2 h2 {
+    font-size: 20px;
+}
+	#prichin {
+	    padding-top: 30px;
+	}
+	
+	#prichin .don_prich {
+	    margin-top: 40px;
+	}
+	
+	#prichin .don_prich .box_dom_prich h4 {
+	    font-size: 15px;
+	}
+	
+	#otzyv h2 {
+	    font-size: 19px;
+	}
+	
+	#otzyv {
+	padding-top: 30px;
+	}
+	
+	#bolche_rabot {
+    min-height: initial;
+}
+
+#somnev h2 {
+    font-size: 20px;
+}
+
+#somnev h3 {
+    font-size: 10px;
+}
+
+.row_somnev .box_somnev ul {
+    width: initial;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+
+.row_somnev .box_somnev .forma_somnev {
+    width: initial;
+    padding: 20px;
+    min-height: initial;
+}
+
+.row_somnev .box_somnev .forma_somnev h5 {
+    font-size: 14px;
+}
+
+.row_somnev .box_somnev .forma_somnev p {
+font-size: 12px;
+}
+
+#partner {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#partner h2 {
+    font-size: 25px;
+}
+
+#partner .partner_vse img {
+display: initial;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.row_fut .map {
+    width: 290px;
+}
+
+footer .block_bottom .block_fut .text_fut {
+margin-top: 10px;
+}
+
+footer .block_bottom .block_fut .text_fut p {
+border: none;
+    padding: 20px;
+    margin: 0;
+}
+
+footer .block_bottom .block_fut .block_phone_f:before {
+display: none;
+}
+
+footer .block_bottom .block_fut .block_phone_f {
+    text-align: center;
+}
+
+.modalDialog > div {
+    margin: 10% auto;
+	    box-sizing: border-box;
+
+}
+	
+}

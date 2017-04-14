@@ -1,0 +1,113 @@
+#jquery-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 90;
+	width: 100%;
+	height: 500px;
+}
+#jquery-lightbox {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 100;
+	text-align: center;
+	line-height: 0;
+}
+#jquery-lightbox a img { border: none;     display: none;}
+#lightbox-container-image-box {
+	position: relative;
+	background-color: #fff;
+	width: 250px;
+	height: 250px;
+	margin: 0 auto;
+	    max-width: 500px;
+		    height: auto !important;
+			width: 95% !important;
+}
+#lightbox-container-image { padding: 10px; }
+
+#lightbox-container-image img{
+ width: 100%;
+}
+#lightbox-loading {
+	position: absolute;
+	top: 40%;
+	left: 0%;
+	height: 25%;
+	width: 100%;
+	text-align: center;
+	line-height: 0;
+}
+#lightbox-nav {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	z-index: 10;
+
+}
+#lightbox-container-image-box > #lightbox-nav { left: 0; }
+#lightbox-nav a { outline: none;}
+#lightbox-nav-btnPrev, #lightbox-nav-btnNext {
+	    display: block !important;
+    width: 60px;
+    height: 60px !important;
+    position: absolute;
+    top: 40%;
+    cursor: pointer;
+}
+#lightbox-nav-btnPrev { 
+	left: 0;
+    float: left;
+    background-image: url(../images/arrow-left.png) !important;
+}
+#lightbox-nav-btnPrev:hover {
+	background-image: url(../images/arrow-left-h.png) !important;
+}
+#lightbox-nav-btnNext { 
+	right: 0; 
+	float: right;
+	background-image: url(../images/arrow-right.png) !important;
+}
+#lightbox-nav-btnNext:hover {
+	background-image: url(../images/arrow-right-h.png) !important;
+}
+#lightbox-container-image-data-box {
+	font: 10px Verdana, Helvetica, sans-serif;
+	background-color: #fff;
+	margin: 0 auto;
+	line-height: 1.4em;
+	overflow: auto;
+	width: 100%;
+	padding: 0 10px 7px;
+	    max-width: 500px;
+		    width: 95% !important;
+}
+#lightbox-container-image-data {
+	padding: 0 10px; 
+	color: #666; 
+}
+#lightbox-container-image-data #lightbox-image-details { 
+	width: 70%; 
+	float: left; 
+	text-align: left; 
+}	
+#lightbox-image-details-caption { font-weight: bold;     font-family: tahoma,sans-serif;
+    font-size: 14px;     margin-top: 7px;
+    display: inline-block !important;}
+#lightbox-image-details-currentNumber {
+	display: block; 
+	clear: left; 
+	    display: none !important;
+	padding-bottom: 1.0em;	
+}			
+#lightbox-secNav-btnClose {
+	    width: 30px;
+    height: 30px;
+	    background-image: url(../images/close.png);
+	float: right;
+	padding-bottom: 0.7em;	
+}
